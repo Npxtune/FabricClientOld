@@ -7651,16 +7651,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1577257292}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0.043619405, w: 0.9990483}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 736531718}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -6.3580003}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 5}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 511.96, y: -110.68}
+  m_AnchoredPosition: {x: 624.3, y: -109.3}
   m_SizeDelta: {x: 520.4627, y: 33.41478}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1577257294
@@ -7683,7 +7683,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Branch - master - 0914152
+  m_text: 'Branch - master
+
+    commit - 814ce72
 
 '
   m_isRightToLeft: 0
